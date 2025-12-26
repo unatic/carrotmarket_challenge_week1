@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { API_URL } from "../constants";
+import { API_URL } from "./constants";
 
 export const metadata = {
   title: "Home",
